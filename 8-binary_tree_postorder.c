@@ -8,10 +8,10 @@
  *
  * FUNCTIONALITY
  *
- * 1. If the tree is not empty and the function pointer is not NULL, then
- * 2. Traverse the left subtree
- * 3. Traverse the right subtree
- * 4. Call the function pointer on the current node
+ * 1. If the tree is not empty and the function pointer is not NULL , then
+ * 2. Traverse the left Subtree
+ * 3. Traverse the right Subtree
+ * 4. Call the function Pointer on the current node
  *
  * Time Complexity: O(n)
  */
